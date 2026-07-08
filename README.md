@@ -1,6 +1,6 @@
 # 💫 About Me:
 Analytical and detail-oriented Computer Science graduate with strong problem-solving skills and a solid foundation
-in programming, SQL and data analysis.
+in programming, SQL and data analysis.Experienced in developing academic projects using modern technologies while working collaboratively in team environments. Quick learner with strong communication skills and a keen interest in developing practical technology solutions.
 
 
 ## 🌐 Socials:
