@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎓B.E Computer Science Graduate.<br>📊Aspiring Data Analyst passionate about turning data into actionable insights.<br>💻Skilled in SQL, Power BI, Excel, Python and Data Visualization.<br>📈Currently building real-world analytics projects.<br>🌱Always learning, exploring, and growing in the field of data and technology.
+Analytical and detail-oriented Computer Science graduate with strong problem-solving skills and a solid foundation
+in programming, SQL and data analysis.
 
 
 ## 🌐 Socials:
